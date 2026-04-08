@@ -1,0 +1,2 @@
+Refund for customer id : II-289 has been processed, Reason : Frequent disconnections with the 399 plan 
+Refund for customer id : II-29 has been processed, Reason : Frequent disconnections and dissatisfaction with the service on the 399 plan. 
